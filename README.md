@@ -165,4 +165,4 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 
 ---
 
-⭐ *If you liked this project, don’t forget to star the repo and connect with me on LinkedIn!*
+⭐ *If you found this project helpful, feel free to star the repo and connect with me for collaboration!*
