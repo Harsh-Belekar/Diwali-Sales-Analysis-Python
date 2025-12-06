@@ -261,3 +261,7 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 The dataset used in this project is intended **solely for educational and analytical purposes**.  
 It does not contain any sensitive personal information, and all customer details are anonymized.  
 Any insights or interpretations derived from this analysis should not be considered as business advice for actual commercial use.
+
+---
+
+⭐ *If you found this project helpful, feel free to star the repo and connect with me for collaboration!*
