@@ -243,3 +243,13 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 
 - **Analytical Thinking**  
   Identifying high-value customer segments, key product categories, and revenue-driving factors.
+
+---
+
+## 🧑‍💻 Author
+
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
+📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
+
+📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
