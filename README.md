@@ -253,3 +253,11 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
 
 📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
+
+---
+
+## 📄 Dataset Disclaimer
+
+The dataset used in this project is intended **solely for educational and analytical purposes**.  
+It does not contain any sensitive personal information, and all customer details are anonymized.  
+Any insights or interpretations derived from this analysis should not be considered as business advice for actual commercial use.
