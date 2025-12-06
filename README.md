@@ -93,9 +93,8 @@ Diwali_Sales_Analysis/
 ├── 📘 Diwali_Sales_Analysis.ipynb      # Main analysis notebook
 ├── 📄 Diwali_Sales_Data.csv            # Dataset file
 │
-├── Documents/
-│   ├── Problem_Statement.pdf              # Business Problem
-│   └── Diwali Sales Analysis Report.pdf   # Full Project Report
+├── 📄 Problem_Statement.pdf              # Business Problem
+├── 📘 Diwali Sales Analysis Report.pdf   # Full Project Report
 │
 ├── 🖼️ images/                          # Folder containing chart images
 │ ├── male_female_by_age.png
