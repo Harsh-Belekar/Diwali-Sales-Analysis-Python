@@ -88,19 +88,22 @@ This project answers key business questions:
 
 ## 📂 Project Structure
 ```
-Diwali_Sales_Analysis/
+├── 📜 README.md                              # Project documentation
+│ 
+├── Data/ 
+│    └── 📄 Diwali_Sales_Data.csv             # Dataset file
 │
-├── 📘 Diwali_Sales_Analysis.ipynb      # Main analysis notebook
-├── 📄 Diwali_Sales_Data.csv            # Dataset file
+├── Docs/ 
+│    ├── 📄 Problem_Statement.pdf             # Business Problem
+│    └── 📘 Diwali Sales Analysis Report.pdf  # Full Project Report
 │
-├── 📄 Problem_Statement.pdf              # Business Problem
-├── 📘 Diwali Sales Analysis Report.pdf   # Full Project Report
+├── Notebook/
+│    └── 📘 Diwali_Sales_Analysis.ipynb       # Main analysis notebook
 │
-├── 🖼️ images/                          # Folder containing chart images
-│ ├── male_female_by_age.png
-│ ├── total_sales_by_occupation.png
-│ └── marital_status_distribution.png
-└── 📜 README.md                        # Project documentation
+└── images/                                   # Folder containing chart images
+      ├── male_female_by_age.png
+      ├── total_sales_by_occupation.png
+      └── marital_status_distribution.png
 ```
 
 ---
@@ -246,6 +249,14 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 
 ---
 
+## 📄 Dataset Disclaimer
+
+The dataset used in this project is intended **solely for educational and analytical purposes**.  
+It does not contain any sensitive personal information, and all customer details are anonymized.  
+Any insights or interpretations derived from this analysis should not be considered as business advice for actual commercial use.
+
+---
+
 ## 🧑‍💻 Author
 
 **👤 Harsh Belekar**  
@@ -253,14 +264,6 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
 
 📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
-
----
-
-## 📄 Dataset Disclaimer
-
-The dataset used in this project is intended **solely for educational and analytical purposes**.  
-It does not contain any sensitive personal information, and all customer details are anonymized.  
-Any insights or interpretations derived from this analysis should not be considered as business advice for actual commercial use.
 
 ---
 
